@@ -1,1 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
+.mi-primera-clase {
+  background-color: rgb(101 47 162);
+}
+.background-cyan {
+  background-color: cyan;
+}
+
+#mi-contenedor {
+  background-color: cyan;
+}
+
+hr {
+  border-color: chocolate;
+}
+
+.thumbnail {
+  background-color: #bc93e4;
+  padding: 20px;
+  min-height: 220px;
+}
+
+.thumbnail:hover {
+  background-color: #7a5f95;
+  padding: 20px;
+  cursor:pointer;
+  }
+  
+.nav-link {
+  cursor:pointer;
+}
